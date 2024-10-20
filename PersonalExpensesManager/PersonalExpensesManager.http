@@ -1,0 +1,6 @@
+@PersonalExpensesManager_HostAddress = http://localhost:80
+
+GET {{PersonalExpensesManager_HostAddress}}/api/category/
+Accept: application/json
+
+###
